@@ -20,13 +20,13 @@ sections:
         is_scrolly: true
         label: Learn more
         url: '#one'
-    background_style: style2
+    background_style: style3
     component: intro.html
     section_id: intro
     subtitle: |-
       Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  
       col accumsan est arcu donec sed Eleifend Integer.
-    title: 'WE ARE MAD PROPS PHOTOBOOTH CO. '
+    title: 'WE ARE MAD PROPS '
     type: intro
   - background_style: style2
     component: spotlights.html
