@@ -3,6 +3,11 @@ title: A Generic Page
 content_img_path: images/pic04.jpg
 home_spotlights:
   enabled: true
+  excerpt: >-
+    Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
+    mauris, eu ultricies erat malesuada quis. Aliquam dapibus.
+  home_img:
+    path: /images/pic05.jpg
 menus:
   main:
     title: Generic
